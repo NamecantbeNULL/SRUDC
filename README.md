@@ -71,6 +71,18 @@ Run the following script to test the trained model:
 python test.py
 ```
 
+## Citation
+
+If you find this work useful for your research, please cite our paper:
+
+```bibtex
+@article{song2023srudc,
+  title={Under-Display Camera Image Restoration with Scattering Effect},
+  author={Song, Binbin and Chen, Xiangyu and Xu, Shuning and Zhou, Jiantao},
+  journal={arXiv preprint arXiv:2308.04163},
+  year={2023}
+}
+```
 
 ## Acknowledgement
 
